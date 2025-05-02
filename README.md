@@ -1,38 +1,41 @@
-Hi there 👋 I'm ShahBakht
+# Hi there 👋 I'm ShahBakht
 
-I'm a passionate Computer Science student exploring the world of tech with curiosity and creativity.
-Currently diving into Web Development, Python, and Data Science
+I'm a passionate Computer Science student exploring the world of tech with curiosity and creativity.  
+Currently diving into Web Development, Python, and Data Science.
 
-Fun Facts
-- I love late-night coding 🌙
-- I believe in learning by building 💡
-- Big fan of clean UIs and aesthetic websites 🎨
+---
 
-💡 Skills
+## 🌟 Fun Facts
 
-💻 Programming languages:
+- I love late-night coding 🌙  
+- I believe in learning by building 💡  
+- Big fan of clean UIs and aesthetic websites 🎨  
 
-• java
-• c++
-• python 
+---
 
-🎨 Frontend Development 
+## 💡 Skills
 
-• HTML, CSS 
-• JavaScript
-• Responsive design
+### 💻 Programming Languages
+- Java  
+- C++  
+- Python  
 
-🖥️ Backend development
-• Node.js basics,
-• PHP
-• MySQL
+### 🎨 Frontend Development
+- HTML, CSS  
+- JavaScript  
+- Responsive Design  
 
-🚀 For Data Science
-• python libraries (Pandas, Numpy, Matplotlib)
-• google colab 
+### 🖥️ Backend Development
+- Node.js (basics)  
+- PHP  
+- MySQL  
 
-🛠️ Tools and Technologies
-• VS code
-• Git, Git hub
-• MySQL workbench
+### 🚀 Data Science
+- Python libraries: Pandas, NumPy, Matplotlib  
+- Google Colab  
+
+### 🛠️ Tools and Technologies
+- VS Code  
+- Git & GitHub  
+- MySQL Workbench
 

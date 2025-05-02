@@ -37,5 +37,22 @@ Currently diving into Web Development, Python, and Data Science.
 ### 🛠️ Tools and Technologies
 - VS Code  
 - Git & GitHub  
-- MySQL Workbench
+- MySQL Workbench  
 
+---
+
+## 📊 GitHub Stats
+
+![ShahBakht's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahBakht&show_icons=true&theme=dark)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahBakht-jalil&layout=compact&theme=dark)
+
+---
+
+## 🌐 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.shahbakht.587@gmail.com.com)

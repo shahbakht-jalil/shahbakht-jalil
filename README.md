@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi there 👋 I'm ShahBakht
 
-<!--
-**shahbakht-jalil/shahbakht-jalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Computer Science student exploring the world of tech with curiosity and creativity.
+Currently diving into Web Development, Python, and Data Science
 
-Here are some ideas to get you started:
+Fun Facts
+- I love late-night coding 🌙
+- I believe in learning by building 💡
+- Big fan of clean UIs and aesthetic websites 🎨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Skills
+
+💻 Programming languages:
+
+• java
+• c++
+• python 
+
+🎨 Frontend Development 
+
+• HTML, CSS 
+• JavaScript
+• Responsive design
+
+🖥️ Backend development
+• Node.js basics,
+• PHP
+• MySQL
+
+🚀 For Data Science
+• python libraries (Pandas, Numpy, Matplotlib)
+• google colab 
+
+🛠️ Tools and Technologies
+• VS code
+• Git, Git hub
+• MySQL workbench
+

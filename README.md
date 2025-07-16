@@ -40,3 +40,8 @@ Currently diving into Web Development, Python, and Data Science.
 - MySQL Workbench  
 
 ---
+## 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahbakht-jalil&layout=compact&langs_count=6&theme=dark)
+
+## 🌐 Connect With Me
+- 📧 [Gmail](mailto:shahbakht.587@gmail.com) 

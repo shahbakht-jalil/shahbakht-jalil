@@ -21,7 +21,9 @@ Currently diving into Web Development, Python, and Data Science.
 - Python  
 
 ### 🎨 Frontend Development
-- HTML, CSS  
+- HTML
+- CSS
+- tailwind CSS 
 - JavaScript  
 - Responsive Design  
 
@@ -37,7 +39,8 @@ Currently diving into Web Development, Python, and Data Science.
 ### 🛠️ Tools and Technologies
 - VS Code  
 - Git & GitHub  
-- MySQL Workbench  
+- MySQL Workbench
+- Google Colab 
 
 ---
 ## 📊 Top Languages
